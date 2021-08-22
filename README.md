@@ -8,7 +8,8 @@ The purpose of this analysis was to help Louise, who is currently running a fund
 
 ### Analysis of Outcomes Based on Launch Date
 This analysis was conducted using the pivot table function in excel.  First, an additional colum was added in the parent spreadsheet that used the YEAR() function in order to isolate just the year from the "Date Created Conversion" column.  This was very simple as it only involved copying and pasting the first "Date Created Conversion" value and putting it inside the YEAR() function, then expanding it to the entire column.  After the new "Years" column had been added, the pivot table was created and placed in a new spreadsheet.  In the pivot table fields, the following values were chosen as shown in the image below.  This creates all the necessary colums and rows.
-<img src="https://github.com/ryogy/kickstarter-analysis/blob/main/Screen%20Shot%202021-08-21%20at%2011.37.02%20AM.png" alt="Screen Shot 2021-08-21 at 11.37.02 AM" style="zoom:30%;" />
+
+<img src="https://github.com/ryogy/kickstarter-analysis/blob/main/Screen%20Shot%202021-08-21%20at%2011.37.02%20AM.png" alt="Screen Shot 2021-08-21 at 11.37.02 AM" style="zoom:45%;" />
 
 The pivot table was then filtered and sorted so that the only the relevant data was displayed in a particular order.  Finally, a line chart was created in order to give the table a more robust visual representation. 
 
